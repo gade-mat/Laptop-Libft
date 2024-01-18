@@ -6,17 +6,17 @@
 /*   By: gade-mat <gade-mat@student.42roma.it>      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/01/17 13:40:01 by gade-mat          #+#    #+#             */
-/*   Updated: 2024/01/18 16:33:16 by gade-mat         ###   ########.fr       */
+/*   Updated: 2024/01/18 17:10:36 by gade-mat         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef LIBFT_H
-#define LIBFT_H
+# define LIBFT_H
 
 
-#include <stdlib.h>
-#include <unistd.h>
-#include <stdio.h>
+# include <stdlib.h>
+# include <unistd.h>
+# include <stdio.h>
 
 int	    ft_isalpha(int i);
 int     ft_isdigit(int c);
